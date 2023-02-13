@@ -32,3 +32,22 @@ h1{
     color: gray;
     margin-bottom: 20px;
 }
+table{
+    border-spacing: 0;
+}
+
+.right{
+    width: 50%;
+}
+
+thead{
+    background-color: dodgerblue;
+}
+
+th{
+    color: white;
+}
+
+.sfalsato{
+    background-color: rgb(155, 226, 240) ;
+}
