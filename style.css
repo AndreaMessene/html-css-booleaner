@@ -5,7 +5,7 @@
     box-sizing: content-box;
 }
 
-section{
+section, footer{
     margin-top: 20px;
 }
 
@@ -28,7 +28,7 @@ h1{
     color: dodgerblue;
 }
 
-#grey{
+#grey,{
     color: gray;
     margin-bottom: 20px;
 }
@@ -51,3 +51,10 @@ th{
 .sfalsato{
     background-color: rgb(155, 226, 240) ;
 }
+
+.footer{
+    margin-top: 20px;
+    color: gray;
+}
+
+
